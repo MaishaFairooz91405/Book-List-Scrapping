@@ -24,7 +24,7 @@ To run this test project locally, follow these steps :
 1. <b>First Step - </b> Clone the repository :
    
    ```bash
-    git clone https://github.com/Aftahiislam007/BookDataScrapping.git
+    git clone https://github.com/MaishaFairooz91405/Book-List-Scrapping.git
     ```
 
 2. <b>Second Step (If needed) - </b> Using `npm` to Instantly Initialize a Project 
